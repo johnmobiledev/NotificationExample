@@ -13,7 +13,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
     NotificationCompat.Builder notification;
-    private static final int UNIQUE_ID = 456;
+    private static final int UNIQUE_ID = 4567;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
